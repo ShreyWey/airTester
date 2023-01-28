@@ -5,7 +5,7 @@ Air quality is one of the biggest environmental concerns today. Pollution and in
 
 
 <style>
-	.body {
+	body {
     background-color:  #191919;
 }
 
