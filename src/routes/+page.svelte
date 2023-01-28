@@ -17,23 +17,6 @@ Air quality is one of the biggest environmental concerns today. Pollution and in
     
 }
 
-::-webkit-scrollbar{
-    width: 6px;
-}
-
-::-webkit-scrollbar-track {
-    background: #191919;
-}
-
-::-webkit-scrollbar-thumb {
-    background:#ffb21991;
-    border-radius: 100vw;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #ffb219e8;
-}
-    
 .h1 {
 	font-size: 2 rem;
 	color: linear-gradient(to top, #0856ff 0%, #ffb119 100%);
